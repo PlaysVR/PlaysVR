@@ -1,7 +1,7 @@
 - Fixed Table Collision
 - Fixed Movement (I Think)
-- Added Server 10
-- Added New Cosmetic (Hidden)
+- Added Teleporter
+- Fixed Head Cosmetics
 
 Thats All
 Have Fun!!!
