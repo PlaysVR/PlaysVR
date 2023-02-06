@@ -1,7 +1,8 @@
-- Fixed Table Collision
-- Fixed Movement (I Think)
-- Added Teleporter
-- Fixed Head Cosmetics
+- Fixed Movement (Maybe)
+- Deleted Player Model (Remaking It + Actual Hands)
+- Fixing Teleporter
+- Adding Collectables
+- Working On New Mod Cosmetics
 
 Thats All
 Have Fun!!!
