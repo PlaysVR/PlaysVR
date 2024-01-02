@@ -1,8 +1,9 @@
-- Fixed Movement (Maybe)
-- Deleted Player Model (Remaking It + Actual Hands)
-- Fixing Teleporter
-- Adding Collectables
-- Working On New Mod Cosmetics
+No Updates Yet...
 
-Thats All
+
+
+
+
+
+
 Have Fun!!!
